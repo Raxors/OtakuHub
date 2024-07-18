@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AnimeXplore</string>
+    <string name="app_name">OtakuHub</string>
+    <string name="shikimori_client_id">WGmqt2i159UZZZX-gCugOWh_Cmobxuf4kI_4Q3Qt574</string>
+    <string name="shikimori_client_secret">VxGojWJVqNXzuAFMWc2q1oKFzU6Ha3h7Bp1HcADdUL4</string>
 </resources>

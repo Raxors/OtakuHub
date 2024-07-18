@@ -1,4 +1,4 @@
-rootProject.name = "AnimeXplore"
+rootProject.name = "OtakuHub"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {

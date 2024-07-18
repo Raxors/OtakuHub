@@ -1,4 +1,4 @@
-package com.raxors.animexplore
+package com.raxors.otakuhub
 
 import App
 import android.os.Bundle
