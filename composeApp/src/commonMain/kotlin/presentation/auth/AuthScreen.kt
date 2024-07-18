@@ -81,8 +81,8 @@ fun AuthScreen(
         redirectUri = "urn:ietf:wg:oauth:2.0:oob"
     }
 
-    val flow =
-    val tokens = flow.getAccessToken()
+//    val flow =
+//    val tokens = flow.getAccessToken()
 
     Column(
         verticalArrangement = Arrangement.Center,
